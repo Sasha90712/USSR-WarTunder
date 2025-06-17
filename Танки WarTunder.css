@@ -1,0 +1,28 @@
+body {
+	background:#0a541a;
+}
+h1 {
+		font-size:500%;
+		text-align:center;
+}
+p {
+		font-size:150%;
+		font-weight:bold;
+		text-align:justify;
+		text-indent:5%;
+		color:#00ff48;
+}
+#a2 {
+	font-size:50%;
+}
+h3 {
+	font-size:200%;
+	text-align:center;
+}
+.a4 {
+	text-align:center;
+}
+h2 {
+	font-size:350%;
+	text-align:center;
+}
