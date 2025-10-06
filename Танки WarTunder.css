@@ -32,10 +32,11 @@ h2 {
   height: 22000px;
   background-color: white;
 }
-.a1,.a7,a8 {
+.a1,.a7,.a8 {
 display: flex; 
 }
 #fa {
 text-align:center;
 }
+
 
