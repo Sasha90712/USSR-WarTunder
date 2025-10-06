@@ -25,4 +25,13 @@ h3 {
 h2 {
 	font-size:350%;
 	text-align:center;
+
+}
+#a2 {
+  width: 20%;
+  height: 12200px;
+  background-color: white;
+}
+.a1,.a7,a8 {
+display: flex; 
 }
